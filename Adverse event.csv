@@ -1,0 +1,11 @@
+RecID,PtID,ParentLoginVisitID,DKAOccurDt,DKAOccurDtApprox,DKAOccurDtUnk,DKAMetCriteria,GlucLevel,GlucLevelUnits,GlucLevelUnk,KetoneResUnk,KetoneSerum,KetoneSerumUnits,KetoneUrine,HCO3,HCO3Unk,pH,pHSample,pHUnk,BUN,BUNUnk,CerebEdema,EventCauseStdyDev,EventCauseNonStdy,DKAOutcome,SensorWear,SensorGluc,SensorGlucUnits,SensorGlucUnk,AutoInsDelivWear,AutoInsDelivMode
+4,154,,03/09/2000 00:00,,,Cant deter,288,mg/dL,,,5,mg/dL,,11,,7.28,Arterial blood,,9,,No,No,Yes,Other,Yes,,,1,No,
+12,52,,05/07/2000 00:00,,,Definitely,600,mg/dL,,,6.4,mmol/L,,,1,7.06,Venous,,23,,No,No,Yes,Fully recovered,Unknown,,,,No,
+7,183,,02/09/2000 00:00,,,No,328,mg/dL,,,,,Extra Large,16.2,,7.31,Venous,,4,,No,No,No,Fully recovered,Yes,,,1,No,
+13,131,,24/04/2001 00:00,,,Definitely,587,mg/dL,,,4.2,mmol/L,,13,,7.2,Venous,,20,,No,No,Yes,Fully recovered,No,,,,No,
+10,116,,16/12/2000 00:00,,,No,516,mg/dL,,,,,Negative,,1,,,1,,1,No,No,Yes,Fully recovered,No,,,,No,
+9,27,,17/12/2000 00:00,,,No,331,mg/dL,,,1.8,mmol/L,Large,25,,,,1,14,,No,No,Yes,Fully recovered,Yes,,,1,No,
+11,94,,12/12/2000 00:00,,,Definitely,617,mg/dL,,1,,,,,1,,,1,,1,No,Yes,No,Fully recovered,No,,,,No,
+2,161,,28/02/2000 00:00,,,Cant deter,,,1,1,,,,,1,,,1,,1,Unknown,No,No,Fully recovered,No,,,,No,
+3,57,,15/08/2000 00:00,,,No,532,mg/dL,,,,,Large,,1,,,1,,1,Unknown,No,Yes,Fully recovered,No,,,,No,
+6,71,,21/09/2000 00:00,,,Definitely,478,mg/dL,,,7.2,mmol/L,Large,,1,,,1,18,,Unknown,Yes,Yes,Other,Yes,,,1,No,
